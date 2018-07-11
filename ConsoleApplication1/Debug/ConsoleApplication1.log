@@ -1,0 +1,19 @@
+﻿  Zwierze.cpp
+  Zolw.cpp
+  Wilk.cpp
+  Trawa.cpp
+  Swiat.cpp
+  Source.cpp
+c:\users\user\desktop\projektc++\consoleapplication1\source.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Roslina.cpp
+  Owca.cpp
+  Organizm.cpp
+  Mlecz.cpp
+  Lis.cpp
+  Jagoda.cpp
+  Guarana.cpp
+  Czlowiek.cpp
+  Antylopa.cpp
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\User\Desktop\projektC++\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\User\Desktop\projektC++\Debug\ConsoleApplication1.pdb (Full PDB)
